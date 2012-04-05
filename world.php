@@ -1,7 +1,7 @@
 <?php
 
 for ($i=0; $i<100; $i++)
-  echo "Hello following's World!";
+  echo "Hello World? ";
 
 if(1) {
 	echo "oc test";
